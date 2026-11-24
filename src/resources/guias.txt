@@ -1,0 +1,9 @@
+# RUT;Nombre;Especialidad;Anios experiencia;Calle;Ciudad;Region
+12345678-9;Daniel Silva;Excursiones Lacustres;5;Los Colonos 145;Puerto Varas;Los Lagos
+98765432-1;Danilo Roa;Senderismo y Montaña;8;Av. Philippi 320;Frutillar;Los Lagos
+11223344-5;Roberto Segovia;Rutas Gastronomicas;3;O'Higgins 88;Llanquihue;Los Lagos
+15566778-K;Reiner Turra;Excursiones Lacustres;6;San Francisco 710;Puerto Varas;Los Lagos
+17888999-2;Francisco Orellana;Senderismo y Montaña;10;Los Carrera 201;Puerto Octay;Los Lagos
+16777000-3;Carlos Correa;Rutas Gastronomicas;4;Costanera 450;Frutillar;Los Lagos
+14555666-7;Francisca Rodriguez;Turismo Cultural;7;Pedro Montt 155;Puerto Varas;Los Lagos
+19999111-8;Agustina Chamorro;Turismo Cultural;2;Baquedano 62;Llanquihue;Los Lagos
